@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3f3f4c1d6568ec99970aa7224f46e554:7906ab8174a6abe516048b23c8756e10:2fcfccba0e4846d5ab1aeeeed4e9da5d$ -->
+<TextureAtlas imagePath="bubbles.png">
+    <SubTexture name="background" x="2" y="2" width="720" height="480"/>
+    <SubTexture name="bubble1" x="724" y="363" width="32" height="32"/>
+    <SubTexture name="bubble2" x="724" y="329" width="32" height="32"/>
+    <SubTexture name="bubble3" x="826" y="295" width="32" height="32"/>
+    <SubTexture name="bubble4" x="792" y="295" width="32" height="32"/>
+    <SubTexture name="bubble5" x="758" y="295" width="32" height="32"/>
+    <SubTexture name="bubble6" x="724" y="295" width="32" height="32"/>
+    <SubTexture name="bubbleLarge1" x="790" y="229" width="64" height="64"/>
+    <SubTexture name="bubbleLarge2" x="724" y="229" width="64" height="64"/>
+    <SubTexture name="bubbleLarge3" x="790" y="163" width="64" height="64"/>
+    <SubTexture name="bubbleLarge4" x="724" y="163" width="64" height="64"/>
+    <SubTexture name="bubbleLarge5" x="790" y="97" width="64" height="64"/>
+    <SubTexture name="bubbleLarge6" x="724" y="97" width="64" height="64"/>
+    <SubTexture name="buttonOver" x="724" y="50" width="160" height="45"/>
+    <SubTexture name="buttonUp" x="724" y="2" width="160" height="46"/>
+</TextureAtlas>
